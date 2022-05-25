@@ -13,3 +13,5 @@ new
 
 git checkout <commit ID > --- to go back to the particular commit using the id  just like roll back 
 
+this thing os cjange 
+
