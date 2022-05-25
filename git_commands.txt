@@ -1,10 +1,15 @@
 touch <file name>-- to create new file from git 
  git add <file name ---to add the particular file into the spaging area
+ git add . ---used to add all the modified and other files too 
+
 git status - for getting the status if the files being comiited or chnage iin the folder
+
 git commit -m "message to be printed"-- for thecomming i.e. saving of thefile using command
 
 
 any change that will be done to the files will eb considered as the modified to make them save need to commit them using the git
 
+new 
 
+git checkout <commit ID > --- to go back to the particular commit using the id  just like roll back 
 
